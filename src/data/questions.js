@@ -1,0 +1,22 @@
+export const questions = [
+  { question: "Quel langage est utilisé avec React ?", options: ["Python", "PHP", "JavaScript", "Ruby"], answer: "JavaScript" },
+  { question: "Quel hook permet de gérer l’état local ?", options: ["useContext", "useEffect", "useState", "useParams"], answer: "useState" },
+  { question: "Qui a créé React ?", options: ["Google", "Facebook", "Amazon", "Apple"], answer: "Facebook" },
+  { question: "Quel outil est utilisé pour le bundling dans Vite ?", options: ["Webpack", "Rollup", "Parcel", "Gulp"], answer: "Rollup" },
+  { question: "Quelle méthode React est utilisée pour les effets de bord ?", options: ["useState", "useEffect", "useContext", "useReducer"], answer: "useEffect" },
+  { question: "Quelle est la commande pour démarrer un projet React avec Vite ?", options: ["npm start", "npm create vite", "npm run dev", "npm init react"], answer: "npm create vite" },
+  { question: "Quelle syntaxe permet de mélanger HTML et JS dans React ?", options: ["JSX", "HTMLX", "JSHTML", "JX"], answer: "JSX" },
+  { question: "Quelle est la fonction principale pour définir un composant React fonctionnel ?", options: ["class", "function", "component", "module"], answer: "function" },
+  { question: "Quelle méthode sert à passer des données d’un composant parent à enfant ?", options: ["props", "state", "context", "hooks"], answer: "props" },
+  { question: "Quel hook permet de partager des données globales ?", options: ["useState", "useContext", "useEffect", "useReducer"], answer: "useContext" },
+  { question: "Quelle est la commande pour installer les dépendances dans un projet Node ?", options: ["npm start", "npm install", "npm run dev", "npm init"], answer: "npm install" },
+  { question: "Quel package manager est souvent utilisé avec React ?", options: ["pip", "npm", "gem", "composer"], answer: "npm" },
+  { question: "Comment appelle-t-on la mise à jour de l’interface en React ?", options: ["Render", "Refresh", "Repaint", "Reload"], answer: "Render" },
+  { question: "Quelle méthode React est obsolète et ne doit plus être utilisée ?", options: ["componentWillMount", "useEffect", "render", "componentDidMount"], answer: "componentWillMount" },
+  { question: "Que signifie SPA ?", options: ["Single Page Application", "Simple Page App", "Single Part App", "Simple Plugin Architecture"], answer: "Single Page Application" },
+  { question: "Quelle librairie est utilisée pour la gestion d’état avancée ?", options: ["Redux", "Vuex", "MobX", "Axios"], answer: "Redux" },
+  { question: "Quelle fonction sert à modifier le state ?", options: ["setState", "getState", "updateState", "changeState"], answer: "setState" },
+  { question: "Quel gestionnaire de paquets est une alternative à npm ?", options: ["Yarn", "Bower", "Pip", "Gem"], answer: "Yarn" },
+  { question: "Quel hook permet de réduire la complexité du state ?", options: ["useState", "useReducer", "useEffect", "useMemo"], answer: "useReducer" },
+  { question: "Que fait la méthode `map` en JavaScript ?", options: ["Itère sur un tableau et retourne un nouveau tableau", "Supprime un élément", "Modifie un tableau sur place", "Recherche un élément"], answer: "Itère sur un tableau et retourne un nouveau tableau" }
+];
