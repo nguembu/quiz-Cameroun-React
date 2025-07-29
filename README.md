@@ -59,9 +59,6 @@ Modifier
 npm start
 Ouvrez dans votre navigateur :
 
-arduino
-Copier
-Modifier
 http://localhost:3000
 📂 Structure du projet
 bash
@@ -108,6 +105,4 @@ Johnny Nguembu – Développeur web full-stack passionné par la création d’a
 
 Merci d’avoir testé ce quiz ! 🎉
 
-yaml
-Copier
-Modifier
+
