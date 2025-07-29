@@ -133,6 +133,7 @@ function App() {
           <p>Chargement des questions...</p>
         )}
       </div>
+      
 
       <style>{`
         body, html, #root {
@@ -147,18 +148,23 @@ function App() {
           display: flex;
           justify-content: center;
           align-items: center;
+          flex-direction: column;
           height: 100%;
+          min-height: 100vh;
+          padding: 1rem;
         }
 
         .quiz-container {
           background-color: #fff;
-          padding: 2rem;
+          padding: 1rem;
           border-radius: 16px;
           box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
           max-width: 600px;
           width: 90%;
+          margin: auto;
           text-align: center;
         }
+
 
         .timer {
           font-size: 1.3rem;

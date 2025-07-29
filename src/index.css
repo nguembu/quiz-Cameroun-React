@@ -66,3 +66,15 @@ button:focus-visible {
     background-color: #f9f9f9;
   }
 }
+
+@media (max-width: 480px) {
+  .quiz-container {
+    padding: 1rem;
+    font-size: 0.9rem; /* un poil plus petit */
+  }
+
+  button {
+    padding: 10px;
+    font-size: 1rem;
+  }
+}
