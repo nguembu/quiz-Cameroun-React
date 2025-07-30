@@ -158,6 +158,56 @@ export const questionsByLevel = {
       options: ["Sanaga", "Bénoué", "Wouri", "Logone"],
       answer: "Bénoué",
     },
+    {
+  question: "Quelle est la plus grande forêt tropicale humide du Cameroun ?",
+  options: ["Forêt de Korup", "Forêt de Dja", "Forêt de Campo", "Forêt de Lobéké"],
+  answer: "Forêt de Korup",
+},
+{
+  question: "Quel est le plat traditionnel camerounais à base de manioc et de poisson fumé ?",
+  options: ["Eru", "Ndolé", "Koki", "Achu"],
+  answer: "Achu",
+},
+{
+  question: "Quelle est la principale langue bantoue parlée dans le sud du Cameroun ?",
+  options: ["Bassa", "Fang", "Ewondo", "Beti"],
+  answer: "Ewondo",
+},
+{
+  question: "Quel fleuve traverse la région du Littoral et se jette dans l'océan Atlantique ?",
+  options: ["Wouri", "Sanaga", "Nyong", "Logone"],
+  answer: "Wouri",
+},
+{
+  question: "Quel sport est considéré comme le plus populaire au Cameroun ?",
+  options: ["Football", "Basketball", "Handball", "Athlétisme"],
+  answer: "Football",
+},
+{
+  question: "Quel est le nom de l'ancien royaume situé dans la région de l’Ouest Cameroun ?",
+  options: ["Bamoun", "Bassa", "Bakossi", "Fang"],
+  answer: "Bamoun",
+},
+{
+  question: "Quel célèbre joueur camerounais est surnommé 'Le Roi Lion' ?",
+  options: ["Roger Milla", "Samuel Eto'o", "Rigobert Song", "Patrick Mboma"],
+  answer: "Roger Milla",
+},
+{
+  question: "Quelle est la capitale économique du Cameroun ?",
+  options: ["Douala", "Yaoundé", "Bafoussam", "Limbe"],
+  answer: "Douala",
+},
+{
+  question: "En quelle année le Cameroun a-t-il obtenu son indépendance ?",
+  options: ["1960", "1961", "1959", "1963"],
+  answer: "1960",
+},
+{
+  question: "Quel est le nom de la monnaie utilisée au Cameroun ?",
+  options: ["Franc CFA", "Dollar", "Euro", "Naira"],
+  answer: "Franc CFA",
+},
     
   ],
 
@@ -212,6 +262,62 @@ export const questionsByLevel = {
       options: ["Pétrole", "Or", "Bauxite", "Fer"],
       answer: "Or",
     },
+    {
+  question: "Quel est le nom du premier président de l'Assemblée nationale du Cameroun indépendant ?",
+  options: ["Salomon Tandeng Muna", "Ahmadou Ahidjo", "André-Marie Mbida", "Charles Assalé"],
+  answer: "Salomon Tandeng Muna",
+},
+{
+  question: "Dans quelle région se trouve le lac volcanique Nyos, tristement célèbre pour une catastrophe en 1986 ?",
+  options: ["Nord-Ouest", "Ouest", "Adamaoua", "Centre"],
+  answer: "Nord-Ouest",
+},
+{
+  question: "Comment s'appelle le mouvement indépendantiste camerounais fondé en 1948 ?",
+  options: ["UPC", "UNC", "SDF", "CPDM"],
+  answer: "UPC",
+},
+{
+  question: "Quelle ville est connue comme le principal port pétrolier du Cameroun ?",
+  options: ["Limbe", "Kribi", "Douala", "Bamenda"],
+  answer: "Limbe",
+},
+{
+  question: "Quel est le nom du parc national camerounais classé au patrimoine mondial de l'UNESCO ?",
+  options: ["Parc de Waza", "Parc de Lobéké", "Réserve du Dja", "Parc de Benoué"],
+  answer: "Réserve du Dja",
+},
+{
+  question: "Quel roi Bamoun a introduit une écriture propre à son peuple, le Shümom ?",
+  options: ["Ibrahim Mbouombouo Njoya", "Njoya I", "Ngouo I", "Mbappé Njoya"],
+  answer: "Ibrahim Mbouombouo Njoya",
+},
+{
+  question: "Quelle ville abrite le plus ancien pont métallique du Cameroun ?",
+  options: ["Edea", "Garoua", "Ngaoundéré", "Yaoundé"],
+  answer: "Edea",
+},
+{
+  question: "Comment s'appelle le volcan actif le plus élevé d'Afrique de l'Ouest, situé au Cameroun ?",
+  options: ["Mont Manengouba", "Mont Fako", "Mont Oku", "Mont Bamboutos"],
+  answer: "Mont Fako",
+},
+{
+  question: "Quel événement historique a conduit à la réunification du Cameroun en 1961 ?",
+  options: [
+    "L'indépendance du Cameroun français",
+    "Le référendum du Cameroun britannique",
+    "La Conférence de Foumban",
+    "La fin de la colonisation allemande",
+  ],
+  answer: "La Conférence de Foumban",
+},
+{
+  question: "Quel groupe ethnique est majoritaire dans la région de l’Extrême-Nord ?",
+  options: ["Mafa", "Kapsiki", "Kotoko", "Kanuri"],
+  answer: "Mafa",
+},
+
     // + 10 autres si tu veux prolonger
   ]
   
